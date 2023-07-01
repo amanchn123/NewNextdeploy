@@ -32,5 +32,3 @@ export default function Header() {
 }
 
 
-
-https://www.instagram.com/reel/Cr8bNxngbZ6/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
